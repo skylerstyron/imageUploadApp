@@ -1,0 +1,15 @@
+.btn {
+    width: 50%;
+    border-radius: 40px;
+    border: solid red 1px;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: red;
+    color: #fff;
+}
+
+.space {
+    height: 10px;
+}
